@@ -1,7 +1,7 @@
 #contenedor,html{
 	height:100%;padding:0px;margin:0px;
 	background-image: url("https://rawgit.com/CsOrtegaCo/Lunar_Landing_Project/master/img/fondo.png");
-	font-family: Arial;
+
 }
 #nave{
 	text-align:center;
@@ -13,11 +13,11 @@
 .controlesNave{
 	width: auto; height: auto; 
 	max-width: 150px;
-	background-color: #00FA9A;
+	background-color: Blue;
 	margin: 10px;
 	width: 100%;
 	border-style: outset;
-	border-color: #2E8B57;
+	border-color: Red;
 	font-size: 120%;
 	padding: 2px;
 	margin-bottom: 15px;
