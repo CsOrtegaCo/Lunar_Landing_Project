@@ -21,6 +21,7 @@ body{
 	border-style: outset;
 	border-color: Red;
 	font-size: 120%;
+	font-color: White;
 	padding: 2px;
 	margin-bottom: 15px;
 }
