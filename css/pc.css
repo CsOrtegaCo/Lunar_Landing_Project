@@ -1,6 +1,8 @@
-#contenedor,html{
-	height:100%;padding:0px;margin:0px;
-	background-image: url("https://rawgit.com/CsOrtegaCo/Lunar_Landing_Project/master/img/fondo.png");
+
+body{
+
+  background:url("https://rawgit.com/CsOrtegaCo/Lunar_Landing_Project/master/img/fondo.png") no-repeat center center fixed;
+  background-size: cover;
 
 }
 #nave{
